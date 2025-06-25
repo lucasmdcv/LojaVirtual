@@ -58,6 +58,7 @@ Estrutura do Projeto
 
 
 acesse o site : 
+https://lojavirtualrepositorylucasmdcv.netlify.app/
 
 .
 ├── index.html
@@ -68,3 +69,4 @@ index.html: Contém toda a estrutura HTML, CSS embutido (via CDN do Tailwind) e 
 
 Contribuição
 Sinta-se à vontade para explorar, usar e aprimorar este projeto. Sugestões e contribuições são sempre bem-vindas!
+
